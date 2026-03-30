@@ -40,6 +40,8 @@ Select LoadTestingReport.jmx
 Configure threads if needed
 Click Run (▶)
 
+run instructions: Open JMeter → LoadTestingReport.jmx → Click Run
+
 Reports & Results:
 Results can be generated using:
 View result in tree
